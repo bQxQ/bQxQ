@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm c#</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bqxq&label=Profile%20views&color=0e75b6&style=flat" alt="bqxq" /> </p> ![Discord]([https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript](https://img.shields.io/badge/-@cleanest-0088CC?style=flat&logo=Discord&logoColor=white))))
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bqxq&label=Profile%20views&color=0e75b6&style=flat" alt="bqxq" /> </p> 
 
 **Programming Languages**
 
