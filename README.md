@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/cleanest">
+  <a href="https://discord.com/users/651133424697999362">
     <img src="https://img.shields.io/badge/Discord-%40cleanest-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
